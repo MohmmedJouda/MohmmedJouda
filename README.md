@@ -1,5 +1,5 @@
 <h1 align="center">Mohammed Jouda</h1>
-<h3 align="center">Full Stack Web Developer | Laravel Specialist | Scalable Systems Builder</h3>
+<h3 align="center">Full Stack Web Developer | Laravel & Vue.js Specialist | Scalable Systems Builder</h3>
 
 <p align="center">
   <a href="mailto:mohammedjouda02@gmail.com">
