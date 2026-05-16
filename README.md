@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** with over **3.5 years of experience** building scalable web applications.
+I'm a passionate **Full Stack Web Developer** with over **+3.5 years of experience** building scalable web applications.
 
 I specialize in:
 
